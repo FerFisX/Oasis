@@ -4,9 +4,9 @@
       <h3>{{ nombre }}</h3>
       <p>{{ cargo }}</p>
       <div class="functionality">
-        <a :href="mensajeLink"><img src="src/assets/Home/team/mensaje.png" alt="Mensaje" /></a>
-        <a :href="whatsappLink"><img src="src/assets/Home/team/whatsapp.png" alt="WhatsApp" /></a>
-        <a :href="githubLink"><img src="src/assets/Home/team/github.png" alt="GitHub" /></a>
+        <a :href="mensajeLink"><img src="@/assets/Home/team/mensaje.png" alt="Mensaje" /></a>
+        <a :href="whatsappLink"><img src="@/assets/Home/team/whatsapp.png" alt="WhatsApp" /></a>
+        <a :href="githubLink"><img src="@/assets/Home/team/github.png" alt="GitHub" /></a>
       </div>
     </div>
   </template>
