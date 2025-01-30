@@ -25,7 +25,7 @@
 <script>
 import NavBar from "../components/NavBar.vue";
 import TableResHotel from "../components/Dashboard/CRUD_ResHoteles/TableResHotel.vue";
-import SideBar from "../components/Admin/SideBar.vue";
+import SideBar from "@/components/Admin/SideBar.vue";
 import TableAudit from "../components/Dashboard/TableAudit.vue";
 import TableVuelo from "../components/Dashboard/CRUD_Vuelos/TableVuelo.vue";
 import TableAlquilerAu from "../components/Dashboard/CRUD_AlquilerAutos/TableAlquilerAu.vue";
