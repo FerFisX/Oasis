@@ -10,7 +10,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="package-item bg-white mb-2">
-            <img class="img-fluid" src="src/assets/vuelos/package-1.jpg" alt="" />
+            <img class="img-fluid" src="@/assets/vuelos/package-1.jpg" alt="" />
             <div class="p-4">
               <div class="d-flex justify-content-between mb-3">
                 <small class="m-0"
@@ -42,7 +42,7 @@
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="package-item bg-white mb-2">
-            <img class="img-fluid" src="src/assets/vuelos/package-2.jpg" alt="" />
+            <img class="img-fluid" src="@/assets/vuelos/package-2.jpg" alt="" />
             <div class="p-4">
               <div class="d-flex justify-content-between mb-3">
                 <small class="m-0"
@@ -74,7 +74,7 @@
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="package-item bg-white mb-2">
-            <img class="img-fluid" src="src/assets/vuelos/package-3.jpg" alt="" />
+            <img class="img-fluid" src="@/assets/vuelos/package-3.jpg" alt="" />
             <div class="p-4">
               <div class="d-flex justify-content-between mb-3">
                 <small class="m-0"
@@ -106,7 +106,7 @@
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="package-item bg-white mb-2">
-            <img class="img-fluid" src="src/assets/vuelos/package-4.jpg" alt="" />
+            <img class="img-fluid" src="@/assets/vuelos/package-4.jpg" alt="" />
             <div class="p-4">
               <div class="d-flex justify-content-between mb-3">
                 <small class="m-0"
@@ -138,7 +138,7 @@
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="package-item bg-white mb-2">
-            <img class="img-fluid" src="src/assets/vuelos/package-5.jpg" alt="" />
+            <img class="img-fluid" src="@/assets/vuelos/package-5.jpg" alt="" />
             <div class="p-4">
               <div class="d-flex justify-content-between mb-3">
                 <small class="m-0"
@@ -170,7 +170,7 @@
         </div>
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="package-item bg-white mb-2">
-            <img class="img-fluid" src="src/assets/vuelos/package-6.jpg" alt="" />
+            <img class="img-fluid" src="@/assets/vuelos/package-6.jpg" alt="" />
             <div class="p-4">
               <div class="d-flex justify-content-between mb-3">
                 <small class="m-0"
