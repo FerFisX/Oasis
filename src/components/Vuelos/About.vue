@@ -26,14 +26,14 @@
               <div class="col-6">
                 <img
                   class="img-fluid"
-                  src="src/assets/vuelos/about-1.jpg"
+                  src="@/assets/vuelos/about-1.jpg"
                   alt=""
                 />
               </div>
               <div class="col-6">
                 <img
                   class="img-fluid"
-                  src="src/assets/vuelos/about-2.jpg"
+                  src="@/assets/vuelos/about-2.jpg"
                   alt=""
                 />
               </div>
