@@ -8,7 +8,7 @@
         <p>agencia.viajes.oasis@gmail.com</p>
       </div>
       <div class="social">
-        <img src="src/assets/Home/facebook.png" alt="" width="30">
+        <img src="@/assets/Home/facebook.png" alt="" width="30">
         <p>Agencia de Viajes Oasis</p>
       </div>
       <div class="social">
