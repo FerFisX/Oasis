@@ -4,7 +4,7 @@
       <h2>Ubicacion</h2>
       <p>Av. 14 de Septiembre Nº 4807 esquina, La Paz</p>
       <div class="social">
-        <img src="src/assets/Home/team/mensaje.png" alt="" width="30">
+        <img src="@/assets/Home/team/mensaje.png" alt="" width="30">
         <p>agencia.viajes.oasis@gmail.com</p>
       </div>
       <div class="social">
@@ -12,11 +12,11 @@
         <p>Agencia de Viajes Oasis</p>
       </div>
       <div class="social">
-        <img src="src/assets/Home/instagram.png" alt="" width="30">
+        <img src="@/assets/Home/instagram.png" alt="" width="30">
         <p>Agency.oasis</p>
       </div>
       <div class="social">
-        <img src="src/assets/Home/telefono.png" alt="" width="30">
+        <img src="@/assets/Home/telefono.png" alt="" width="30">
         <p>(+591) 68171114</p>
       </div>
     </div>
