@@ -6,7 +6,7 @@
           <div class="position-relative h-100">
             <img
               class="position-absolute w-100 h-100"
-              src="src/assets/vuelos/about.jpg"
+              src="@/assets/vuelos/about.jpg"
               style="object-fit: cover"
             />
           </div>
