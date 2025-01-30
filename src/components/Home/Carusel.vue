@@ -10,16 +10,16 @@
     <div class="Tarjetas-container">
       <div class="carusel">
         <div class="tarjeta-ciudad">
-          <img src="src/assets/Home/carusel/cbba.jpg" alt="Ciudad de Cochabamba" />
+          <img src="@/assets/Home/carusel/cbba.jpg" alt="Ciudad de Cochabamba" />
           <span>Cochabamba</span>
         </div>
         <div class="tarjeta-ciudad">
-          <img src="src/assets/Home/carusel/lapazlugar.jpg" alt="Ciudad de La Paz" />
+          <img src="@/assets/Home/carusel/lapazlugar.jpg" alt="Ciudad de La Paz" />
           <span>La Paz</span>
         </div>
         <div class="tarjeta-ciudad">
           <img
-            src="src/assets/Home/carusel/tarija-nocturna-600.png"
+            src="@/assets/Home/carusel/tarija-nocturna-600.png"
             alt="Ciudad de Tarija"
           />
           <span>Tarija</span>
@@ -31,7 +31,7 @@
 </template>
 <style>
 .imagen-container {
-  background: url("src/assets/Home/carusel/cbba.jpg");
+  background: url("@/assets/Home/carusel/cbba.jpg");
   display: flex;
   flex-direction: column;
   background-size: cover;
