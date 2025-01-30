@@ -1,6 +1,6 @@
 <template>
   <div class="TarjetaLogin">
-    <img src="src/assets/logo_black.png" alt="Logo Oasis" />
+    <img src="@/assets/logo_black.png" alt="Logo Oasis" />
     <br />
     <h3>Bienvenido</h3>
     <p>Inicie su sesión para continuar en Oasis</p>
