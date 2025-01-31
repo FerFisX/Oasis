@@ -84,7 +84,7 @@
             </div>            
             <div>
               <Icon :icon="icon_validacion1" width="16" height="16" :color='estilo_validacion1'/>
-              <p :class='confirmacion1'>La contraseña debe ser de al menos 8 caracteres</p>
+              <p :class='confirmacion1'>La contraseña debe ser de al menos 12 caracteres</p>
             </div>
             <div>
               <Icon :icon="icon_validacion2" width="16" height="16" :color='estilo_validacion2'/>
