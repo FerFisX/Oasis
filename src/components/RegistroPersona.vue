@@ -317,7 +317,7 @@ export default {
           this.estilo_validacion0 = 'green';
           this.confirmacion0 = 'validation_check';
           
-          if (password.length >= 😎 {
+          if (password.length >= 12) {
             this.icon_validacion1 = 'lets-icons:check-fill';
             this.estilo_validacion1 = 'green';
             this.confirmacion1 = 'validation_check';
