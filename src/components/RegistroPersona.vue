@@ -263,7 +263,7 @@ export default {
     validatePassword(password) {
       console.log(password);
       // Al menos 8 caracteres
-      if (password.length < 12 {
+      if (password.length < 12) {
         console.log("Tamanio");
         return false;
       }
