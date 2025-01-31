@@ -388,9 +388,10 @@ export default {
       const minutos = String(ahora.getMinutes()).padStart(2, '0');
       const segundos = String(ahora.getSeconds()).padStart(2, '0');
 
-      this.fecha = ${anio}-${mes}-${dia};
-      this.hora = ${horas}:${minutos}:${segundos};
-      this.fechaInicio = ${this.fecha}T${this.hora};
+      this.fecha = `${anio}-${mes}-${dia}`;
+      this.hora = `${horas}:${minutos}:${segundos}`;
+      this.fechaInicio = `${this.fecha}T${this.hora}`;
+
     },
     async getIPAddress() {
       try {
